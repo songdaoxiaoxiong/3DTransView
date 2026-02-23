@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- 建议替换为项目演示截图/banner，放在docs/banner.png -->
-  <img src="docs/banner.png" alt="3DTransView Banner" width="100%">
+
   
   # 🎨 3DTransView
   **Interactive 3D Geometric Transformation Visualization Tool**
@@ -43,18 +42,6 @@
 - **Configurable Parameters**：Support custom rotation step, scaling ratio, translation distance through dialog boxes, flexible adjustment of algorithm parameters.
   （中文）可配置参数：通过对话框支持自定义旋转步长、缩放比例、平移距离，灵活调整算法参数。
 
----
-
-## 📸 Demo Screenshots（演示截图）
-| 3D Cube Rotation (X-axis) | Gouraud Smooth Shading |
-| :---: | :---: |
-| <img src="docs/rotation_x.png" alt="X轴旋转演示" width="400"> | <img src="docs/gouraud_shading.png" alt="Gouraud着色演示" width="400"> |
-
-| Multi-plane Reflection | Hidden Surface Removal |
-| :---: | :---: |
-| <img src="docs/reflection.png" alt="反射变换演示" width="400"> | <img src="docs/hidden_surface.png" alt="消隐算法演示" width="400"> |
-
----
 
 ## 🚀 Quick Start（快速上手）
 ### Environment Requirements（环境要求）
